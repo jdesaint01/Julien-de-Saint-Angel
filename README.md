@@ -99,8 +99,7 @@ Extrait de sortie attendu :
 ## 🚀 Pistes d’amélioration
 
 - Utiliser plus de classes (ex. 10 pour MNIST)  
-- Ajouter d'autres fonctions d’activation (ReLU, tanh)  
-- Ajouter une régularisation (L2)  
+- Ajouter d'autres fonctions d’activation (ReLU, tanh)   
 - Utiliser des mini-batchs au lieu de traiter une image à la fois  
 - Ajouter une interface visuelle pour explorer les prédictions
 
